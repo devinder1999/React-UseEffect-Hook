@@ -1,0 +1,25 @@
+.div
+{
+    height:634px;
+    border:1px solid black;
+}
+.btn
+{
+  background-Color:blue;
+      color:white;
+      height:180px;
+      width:280px;
+      font-Size:40px;
+      margin-left:310px;
+      margin-top: 100px;
+    }
+
+    .text1
+    {
+      margin-left:180px; 
+    }
+    .text2{
+
+      margin-left:310px;
+
+    }
